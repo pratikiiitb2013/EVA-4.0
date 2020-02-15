@@ -173,5 +173,5 @@ Train set: Average loss: 0.0168, Accuracy: 59686/60000 (99.48%)
 Test set: Average loss: 0.0148, Accuracy: 9952/10000 (99.52%)
 ```
 
-Colab file link - https://colab.research.google.com/drive/1_pENU66CEmxaISSRIWIsQIkpcpjs71g2
+Colab file link - https://colab.research.google.com/drive/1_pENU66CEmxaISSRIWIsQIkpcpjs71g2<br>
 Author - Siddharth Surange
