@@ -19,7 +19,8 @@
 
 **Architecture**<BR>
   
-<B><I> (CONV2D+CONV2D) + POOLING + (CONV2D(1*1) + CONV2D + CONV2D) + POOLING + (CONV2D+CONV2D) + GAP + LOG_SOFTMAX</I></B>
+<B><I> (CONV2D+CONV2D) + POOLING + (CONV2D(1*1) + CONV2D + CONV2D) + POOLING + (CONV2D+CONV2D) + GAP + LOG_SOFTMAX</I></B><br>
+No Bias used in CONV2D layers<br>
 
 ```
 ----------------------------------------------------------------
