@@ -17,7 +17,7 @@
   <li><B> DROPOUT RANGE</B> - (0.05-0.1)</li>
 </UL>
 
-**ARCHITECTURE**<BR>
+**Architecture**<BR>
   
 <B><I> (CONV2D+CONV2D) + POOLING + (CONV2D(1*1) + CONV2D + CONV2D) + POOLING + (CONV2D+CONV2D) + GAP + LOG_SOFTMAX</I></B>
 
