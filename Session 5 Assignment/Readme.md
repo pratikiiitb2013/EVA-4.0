@@ -39,7 +39,8 @@ The model is large in terms of capacity(parameter count) making it more complex.
 Since there are no transforms being done trained model becomes biased to train images which might not be actual representation of true conditions.
 
 ```
-
+![image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%205%20Assignment/CODE1%20RF.JPG)
+<br>
 <h4> CODE 2 ANALYSIS </H4>
 
 ```
@@ -61,7 +62,8 @@ Model still overfits with huge gap. Need to introduce regularization.
 The model is less complex with reduction in kernel values.
 After reducing the intermediate kernel values, model still is performing good.
 ```
-
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%205%20Assignment/CODE2%20RF.JPG)
+<br>
 <h4> CODE 3 ANALYSIS </H4>
 
 ```
@@ -82,7 +84,8 @@ Analysis:
 Model looks a bit overfit.
 Architecture looks simple overall and can be improved upon to attain good accuracy and prevent overfitting.
 ```
-
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%205%20Assignment/CODE3%20RF.JPG)
+<br>
 <h4> CODE 4 ANALYSIS </H4>
 
 ```
@@ -102,6 +105,8 @@ Analysis:
 Model stills ovrfits but it doesn't show this trend in overall training
 Need to introduce dropout and learn more features.
 ```
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%205%20Assignment/CODE4%20RF.JPG)
+<br>
 
 <h4> CODE 5 ANALYSIS </H4>
 
@@ -124,6 +129,8 @@ Model seams to be stable with no overfitting.
 Model accuracy must be tuned by trying different learning rates or changing architecture with more feature extractors.
 ```
 
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%205%20Assignment/CODE5%20RF.JPG)
+<br>
 <h4> CODE 6 ANALYSIS </H4>
 
 ```
@@ -144,6 +151,7 @@ Epoch - 13
 Analysis:
 Model gives a consistent test accuracy above 99.40 which seems to be a good sign.
 ```
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%205%20Assignment/CODE6%20RF.JPG)
 
 <hr>
 <h4> FINAL MODEL(CODE6) TRAIN LOGS</H4>
