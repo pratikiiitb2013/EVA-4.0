@@ -1,11 +1,10 @@
-<h1><i> Assignment 5</i></h1>
-<hr>
+<h1><i> Assignment 5</i></h1><hr>
 <h4>Assignment Target -</h4>
 1) 99.4% (this must be consistently shown in your last few epochs, and not a one-time achievement)<br>
 2) Less than or equal to 15 Epochs<br>
 3) Less than 10000 Parameters<br>
 4) Calculate Receptive Field for each Model(<b>RF Calculations can be viewed in notebooks</b>)
-
+<hr>
 <h4><b> Solution </b></h4>
 Solution spans over 5 different code files where each new code files improves upon the issues of last file.<br>
 <ul>
@@ -17,6 +16,7 @@ Solution spans over 5 different code files where each new code files improves up
   <li><b>CODE 6</b> - Introducing StepLR: to increase model efficiency</li>
 </ul>
 
+<hr>
 <h4> CODE 1 ANALYSIS</H4>
 
 ```
@@ -144,6 +144,8 @@ Epoch - 13
 Analysis:
 Model gives a consistent test accuracy above 99.40 which seems to be a good sign.
 ```
+
+<hr>
 <h4> FINAL MODEL(CODE6) TRAIN LOGS</H4>
 
 ```
@@ -224,6 +226,6 @@ Loss=0.11147846281528473 Batch_id=937 Accuracy=99.28: 100%|███████
 
 Test set: Average loss: 0.0199, Accuracy: 9942/10000 (99.42%)
 
-
 ```
+<hr>
 <B> Author - Siddharth Surange</b>
