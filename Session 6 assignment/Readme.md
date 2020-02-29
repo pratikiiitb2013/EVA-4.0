@@ -34,4 +34,7 @@
 
 <hr>
 
-Author - Siddharth Surange
+Authors - Siddharth Surange, Pratik Jain, Anjali Chimnani, BhKPriyanka
+
+
+         
