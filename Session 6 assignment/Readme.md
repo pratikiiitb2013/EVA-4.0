@@ -8,3 +8,20 @@
   <li> Add L1 Regularization </li>
   <li> Add both L1/L2 Regularization </li>
 </ol>
+<hr>
+
+<h4> Validation Acc plot for all above 4 cases</h3>
+
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%206%20assignment/Val_accplot.png)
+
+<h4> Validation loss plot for all 4 cases</h3>
+
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%206%20assignment/Val_lossplot.png)
+
+<h4>25 Missclassified samples for L1 code base</h3>
+
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%206%20assignment/L1_Errorsample.png)
+
+<h4> 25 Missclassified samples for L2 code base </h3>
+
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%206%20assignment/L2_ErrorSample1.png)
