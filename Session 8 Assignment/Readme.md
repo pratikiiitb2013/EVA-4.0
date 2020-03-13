@@ -1,4 +1,4 @@
-<h1><i><b>Session 8 Assignment</B></i></h1>
+<h2><i><b><font color='blue'>Session 8 Assignment</font></B></i></h2>
 <hr>
 <h3><i>Things to accomplish</i></h3>
 <ol>
@@ -6,7 +6,7 @@
   <li>Use your data loader, model loading, train, and test code to train ResNet18 on <B>Cifar10</B></li>
   <li>Your Target is 85% accuracy. No limit on the number of epochs. Use default ResNet18 code (so params are fixed)</li>
 </ol>
-
+<hr>
 <h3><i> FINAL Model Details</i></h3>
 <ul>
   <li><B>Best Validation Accuracy</b>-86.76</li>
@@ -16,6 +16,7 @@
   <li><b>LR Optimizer</b>- MultiStepLR</li>
 </ul>
 
+<hr>
 <h3><i>Model logs</i></h3>
 
 ```
@@ -153,9 +154,13 @@ Test set: Average loss: 0.3919, Accuracy: 8675/10000 (86.75%)
 
 
 ```
-
+<hr>
 <h3><i>Misclassified samples</i></h3>
 
+![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%208%20Assignment/S8_misclassified.png)
+
+<hr>
+Author - Siddharth Surange
 
 
 
