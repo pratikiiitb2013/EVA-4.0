@@ -11,14 +11,19 @@
   <li>Target Accuracy is 87%</li>
 </ol>
 
-<hr>
+<HR>
 
 <h3> Final Model metrics</h3>
 <ul>
-  <li></li>
+  <li>Epochs - 24</li>
+  <li>Test accuracy - 88.97</li>
+  <li>Augmentation - Albumentation (Horizontal Flip, Rotate, HueSaturationValue, Cutout)</li>
 </ul>
 
+
 <hr>
+
+<h3>Training Logs</h3>
 
 
 ```
@@ -166,8 +171,8 @@ Loss=0.31349560618400574 Batch_id=390 Accuracy=92.23: 100%|███████
 Test set: Average loss: 0.0028, Accuracy: 8897/10000 (88.97%)
 ```
 <hr>
-
-![IMGAGE][]
+<h3> Misclassified images</h3>
+![IMGAGE](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%209%20Assignment/Misclassified_S9.png)
 
 <HR>
 Author - Siddharth Surange
