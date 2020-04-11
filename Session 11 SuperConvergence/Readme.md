@@ -50,6 +50,12 @@ Write a code that draws this curve (without the arrows). In submission, you'll u
 
 <hr>
 
+<h3> Zigzag Cyclic LR pattern </h3>
+
+![img](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%2011%20SuperConvergence/Zigzag_S11.png)
+
+<hr>
+
 <h3>Training Logs</h3>
 
 
